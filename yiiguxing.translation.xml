@@ -1,17 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="When set to true, layouts from end to start." />
-      <item value="Gradle sync started" />
-      <item value="configureondemand" />
-      <item value="Class is not a View androidx.fragment.app.Fragment" />
-      <item value="BindView fields must extend from View or be an interface" />
-      <item value="test Instrumentation Runner" />
+      <item value="App Compat Activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
   </component>
