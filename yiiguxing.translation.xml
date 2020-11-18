@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="support Finish After Transition" />
+      <item value="On Android 4.4 or lower, this method only finishes the Activity with no * special exit transition.&lt;/p&gt;" />
       <item value="Activity" />
       <item value="Probe" />
       <item value="STATION" />
@@ -13,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
